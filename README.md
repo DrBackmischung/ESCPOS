@@ -23,8 +23,7 @@ We provide open-source ESCPOS printer libraries in the following languages:
 ## 💬 How to Contribute a Feature Idea
 
 1. Go to the [Issues tab](https://github.com/DrBackmischung/ESCPOS/issues).
-2. Select **"New issue"** and choose the **Feature Request** template.
-3. Clearly describe your idea, the use case, and optionally the target language(s).
+2. Clearly describe your idea, the use case, and optionally the target language(s).
 
 ---
 
