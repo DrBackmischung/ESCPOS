@@ -7,8 +7,8 @@ Welcome to the central repository for the **ESCPOS printing libraries** maintain
 We provide open-source ESCPOS printer libraries in the following languages:
 
 - [Java](https://github.com/DrBackmischung/ESCPOS-Java)
-- [JavaScript (ES5)](https://github.com/DrBackmischung/ESCPOS-JavaScript)
-- [TypeScript (ES6+)](https://github.com/DrBackmischung/ESCPOS-TypeScript)
+- [JavaScript](https://github.com/DrBackmischung/ESCPOS-JavaScript)
+- [TypeScript](https://github.com/DrBackmischung/ESCPOS-TypeScript)
 - [Python](https://github.com/DrBackmischung/ESCPOS-Python)
 
 ## ✅ Where to Report What
